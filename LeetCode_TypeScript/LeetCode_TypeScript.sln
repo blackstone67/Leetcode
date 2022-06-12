@@ -11,6 +11,8 @@ Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "3sum-closest", "3sum-closes
 EndProject
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "maximum-erasure-value", "maximum-erasure-value\maximum-erasure-value.njsproj", "{8DA75009-6207-401E-90D6-30A7EE4B5CC9}"
 EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "minimum-operations-to-reduce-x-to-zero", "minimum-operations-to-reduce-x-to-zero\minimum-operations-to-reduce-x-to-zero.njsproj", "{DA8F3A89-4603-4BD0-A0C3-6FB2036476D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{8DA75009-6207-401E-90D6-30A7EE4B5CC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8DA75009-6207-401E-90D6-30A7EE4B5CC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8DA75009-6207-401E-90D6-30A7EE4B5CC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA8F3A89-4603-4BD0-A0C3-6FB2036476D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA8F3A89-4603-4BD0-A0C3-6FB2036476D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA8F3A89-4603-4BD0-A0C3-6FB2036476D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA8F3A89-4603-4BD0-A0C3-6FB2036476D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

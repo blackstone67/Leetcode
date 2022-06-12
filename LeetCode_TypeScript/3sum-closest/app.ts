@@ -1,8 +1,8 @@
 import { exit } from "process";
 
 function threeSumClosest(nums: number[], target: number): number {
-    console.log('ê')
-        console.log('ê')
+    console.log('ï¿½')
+        console.log('ï¿½')
 
     let a = new Array(7001);
     for (let i = 0; i < nums.length; i++)
