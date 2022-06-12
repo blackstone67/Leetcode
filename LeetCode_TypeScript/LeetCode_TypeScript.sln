@@ -7,6 +7,10 @@ Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "TwoSum", "TwoSum\TwoSum.njs
 EndProject
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "3Sum", "3Sum\3Sum.njsproj", "{B748A195-400E-4296-928C-A5D66BB43D56}"
 EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "3sum-closest", "3sum-closest\3sum-closest.njsproj", "{A38498BD-B0F2-47E0-8812-1F3ADC9C592F}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "maximum-erasure-value", "maximum-erasure-value\maximum-erasure-value.njsproj", "{8DA75009-6207-401E-90D6-30A7EE4B5CC9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{B748A195-400E-4296-928C-A5D66BB43D56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B748A195-400E-4296-928C-A5D66BB43D56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B748A195-400E-4296-928C-A5D66BB43D56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A38498BD-B0F2-47E0-8812-1F3ADC9C592F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A38498BD-B0F2-47E0-8812-1F3ADC9C592F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A38498BD-B0F2-47E0-8812-1F3ADC9C592F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A38498BD-B0F2-47E0-8812-1F3ADC9C592F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DA75009-6207-401E-90D6-30A7EE4B5CC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DA75009-6207-401E-90D6-30A7EE4B5CC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DA75009-6207-401E-90D6-30A7EE4B5CC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DA75009-6207-401E-90D6-30A7EE4B5CC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
